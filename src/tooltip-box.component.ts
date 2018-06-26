@@ -18,7 +18,7 @@ import { animate, trigger, style, state, transition } from '@angular/animations'
               color: white;
               display: inline-block;
               position: fixed;
-              padding: 15px 25px;
+              padding: 6px;
               font-size: 15px;
           }
     `,
